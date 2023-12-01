@@ -27,7 +27,8 @@ Let's connect and chat! You can find me on:
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
+![Your GitHub Stats](## Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimbouharb&show_icons=true&count_private=true&hide=contribs)
 <!-- Feel free to add more sections or customize it according to your preferences -->
 
