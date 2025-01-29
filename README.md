@@ -1,4 +1,3 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3924936" style='border:none;'></iframe>
 # 💫 About Me:
 👋 Hello, I’m Hakim Bouharb
 <br><br>🎓 Student at Holberton School
@@ -13,6 +12,5 @@
     <div style="display: flex;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimbouharb&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimbouharb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-        <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3924936" style='border:none;'></iframe>
     </div>
 </div>
